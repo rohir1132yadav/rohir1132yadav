@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 </div>
-  <b>Leaderboard Stat's</b><br>
+  <b>GSSOC Leaderboard Stat's</b><br>
 <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rohir1132yadav">GSSOC(24)Extd Leaderboard Stat's</a><br>
 <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=rohir1132yadav">GSSOC(24) Leaderboard Stat's</a>
 
