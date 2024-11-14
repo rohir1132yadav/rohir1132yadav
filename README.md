@@ -44,8 +44,8 @@
 <br>
 <b>Holopin Badges 🪶</b>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://www.holopin.io/@rohir1132yadav#badges">
- </a><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100px" height="100px"/>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="100px" height="100px"/>
+ </a><a href="https://www.holopin.io/userbadge/cm1tkfl1l84330dl8bd8vte3c"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100px" height="100px"/></a>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="100px" height="100px"><a href="
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="100px" height="100px"/>
   <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-coffee-hoodie-0-0.webp" width="100px" height="100px"/>
   <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-coffee-hoodie-witch-0.webp" width="100px" height="100px"/>
