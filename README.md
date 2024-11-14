@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohir1132yadav&label=Profile%20views&color=0e75b6&style=flat" alt="rohir1132yadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohir1132yadav" alt="rohir1132yadav" /></a> </p>
+<p align="left"> <a href="https://github.com/rohir1132yadav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohir1132yadav" alt="rohir1132yadav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rohitya08173144" target="blank"><img src="https://img.shields.io/twitter/follow/rohitya08173144?logo=twitter&style=for-the-badge" alt="rohitya08173144" /></a> </p>
 
